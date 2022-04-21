@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomRIA", "DomRIA\DomRIA.csproj", "{E835E041-E6E7-40D9-BC79-3CD49BC5AB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E835E041-E6E7-40D9-BC79-3CD49BC5AB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E835E041-E6E7-40D9-BC79-3CD49BC5AB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E835E041-E6E7-40D9-BC79-3CD49BC5AB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E835E041-E6E7-40D9-BC79-3CD49BC5AB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57EC1407-94C7-4777-A52D-2CD7AECBA6D1}
+	EndGlobalSection
+EndGlobal
